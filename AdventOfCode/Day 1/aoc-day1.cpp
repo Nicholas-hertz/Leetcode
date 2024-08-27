@@ -1,5 +1,3 @@
-@@ -1,86 +0,0 @@
-
 #include <iostream>
 #include <fstream>
 #include <stdio.h>
